@@ -8,8 +8,13 @@
 
 [文件與程式碼下載:]   http://ftp.icpdas.com/pub/cd/8000cd/napdos/modbus/nmodbus/
 
-> 用檔案管理員開 ftp://ftp.icpdas.com/pub/cd/8000cd/napdos/modbus/nModbus/ 
+> 用檔案管理員開      ftp://ftp.icpdas.com/pub/cd/8000cd/napdos/modbus/nModbus/ 
 
+#### The relevant Modbus demo and SDK can be obtained from the following ICP DAS website.
+> ● DLL and Documents:
+ftp://ftp.icpdas.com/pub/cd/8000cd/napdos/modbus/nmodbus/
+> ● Demo:
+ftp://ftp.icpdas.com/pub/cd/8000cd/napdos/modbus/nmodbus/demo/
 
 
 #### Function Code Function:
