@@ -2,9 +2,13 @@
 [Beckhoff Information System](https://infosys.beckhoff.com/english.php?content=../content/1033/tc3_ads.net/index.html&id=3120360106606588270)
 
 ### PLC
-[在PLC方面，編輯軟體只需符合IEC 61131-3國際標準規範，便可藉由符合各項標準的語言架構，進而能建立任何人皆可瞭解的程式。](https://zh.m.wikipedia.org/zh-tw/IEC_61131-3)
-[PLC可程式控制](http://w3.uch.edu.tw/meplc/MAIN/index.htm)
-[氣液壓控制](http://w3.uch.edu.tw/cyitme/HP/HPGIF/index.htm)
+> [在PLC方面，編輯軟體只需符合IEC 61131-3國際標準規範，便可藉由符合各項標準的語言架構，進而能建立任何人皆可瞭解的程式。](https://zh.m.wikipedia.org/zh-tw/IEC_61131-3)
+> 
+> [PLC可程式控制](http://w3.uch.edu.tw/meplc/MAIN/index.htm)
+> 
+> [氣液壓控制](http://w3.uch.edu.tw/cyitme/HP/HPGIF/index.htm)
+> 
+> [Bit-演算法筆記](https://web.ntnu.edu.tw/~algo/Bit.html)
 
 ### Halcon
 [Halcon (機器視覺)的介紹](https://ithelp.ithome.com.tw/articles/10259866)
